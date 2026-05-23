@@ -1,29 +1,42 @@
-# 👋 Hi, I'm Lamia!
+# 👋 Hi, I'm Lamia ! 
 
 ### 🎓 About Me
-I am a passionate **Computer Science & Artificial Intelligence** student. I specialize in building user-centered web applications, designing interactive prototypes, and implementing intelligent algorithms to solve real-world problems.
+I am a **Computer Science** undergraduate at Prince Sattam Bin Abdulaziz University (PSAU) with a strong foundation in **UI/UX Design** and **Full-Stack Web Development**. I love bridging the gap between beautiful user interfaces and robust code, with a special focus on incorporating AI-driven solutions into web applications.
 
-* 🏫 Studying at Prince Sattam Bin Abdulaziz University (PSAU)
-* 💡 Interested in: Full-Stack Web Development, UX Design, and Applied Cryptography.
-* 🚀 Current Milestone: Successfully developing **STAN** (Student Training Access Network) as my graduation project hub.
+* 🏫 **Education:** B.Sc. in Computer Science (Expected Graduation: 2026) - PSAU, Al-Kharj.
+* 🎯 **Core Focus:** Human-Computer Interaction (HCI), Front-End Development, and Smart Algorithms.
+* 🚀 **Current Status:** Seeking a cooperative training opportunity to apply my technical skills and grow.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-* **Frontend:** React 19, Vite, Tailwind CSS v4, HTML5/CSS3, JavaScript (ES6+).
-* **Backend & Databases:** Node.js, PHP, MySQL.
-* **Design & Prototyping:** Figma (User Personas, Wireframing, High-Fidelity Prototyping).
-* **Tools:** Git & GitHub, WordPress.
+### 🛠️ Technical Skills & Tools
+
+* **🎨 UI/UX Design & Prototyping:** Figma, User Research, Wireframing, High-Fidelity Mockups, Visual Communication.
+* **💻 Front-End:** React 19, Vite, Tailwind CSS v4, JavaScript (ES6+), HTML5, CSS3.
+* **⚙️ Back-End & Databases:** PHP, Java, MySQL.
+* **🧠 AI & Algorithms:** AI-powered filtering and smart matching systems.
+* **🔧 Tools & Version Control:** Git, GitHub, WordPress.
 
 ---
 
 ### 🌟 Featured Projects
-* **🎓 STAN Platform:** A web-based electronic hub utilizing client-side matching algorithms to connect students with Co-op training and internship opportunities.
-* **📚 Nibras Platform:** An academic reference application integrating structured student dashboards and an interactive learning assistant prototype.
+
+#### 🎓 STAN — Student Training Access Network
+* **Role:** Full-Stack Developer & UI/UX Designer (Graduation Project)
+* **Summary:** Designed the complete user experience in Figma and built a responsive React/Vite platform featuring a client-side **AI-powered smart filtering system** that matches university students with optimal Co-op training positions based on majors, skills, and GPAs.
+* **Stack:** React, Vite, Tailwind CSS, JavaScript, PHP, MySQL.
+
+#### 📚 Nibras Platform
+* **Role:** UI/UX Designer & Backend Developer (SE Course Project)
+* **Summary:** A centralized educational reference platform built to empower student content creators and streamline learning resources, featuring an interactive prototype interface tested via usability protocols.
+* **Stack:** Figma, PHP, WordPress (Digital Portfolio).
+
+#### 🏃‍♂️ Fitness Tracker & ✈️ Tour Booking Platforms
+* Academic full-stack and UI projects implementing personalized interaction flows and database management using **Java** and **PHP/MySQL**.
 
 ---
 
-### 📫 Connect with Me
-* 💼 [LinkedIn](https://www.linkedin.com/in/lamia-abdullah1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw8OKebpORMC1j0kchFkWmg%3D%3D)
-* laamiiaAbdullah@gmail.com
-* (+699) 0552311686
+### 📫 Let's Connect!
+* 💼 **LinkedIn:** [linkedin.com/in/lamia-abdullahl](https://linkedin.com/in/lamia-abdullahl)
+* 📧 **Email:** laamiiaabdullah@gmail.com
+*(+966) 0552311686
