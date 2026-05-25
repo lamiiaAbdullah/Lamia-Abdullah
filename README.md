@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lamia ! 
 
 ### 🎓 About Me
-I am a **Computer Science** undergraduate at Prince Sattam Bin Abdulaziz University (PSAU) with a strong foundation in **UI/UX Design** and **Full-Stack Web Development**. I love bridging the gap between beautiful user interfaces and robust code, with a special focus on incorporating AI-driven solutions into web applications.
+I am a **Computer Science** student at Prince Sattam Bin Abdulaziz University (PSAU) with a strong foundation in **UI/UX Design** and **Full-Stack Web Development**. I love bridging the gap between beautiful user interfaces and robust code, with a special focus on incorporating AI-driven solutions into web applications.
 
 * 🏫 **Education:** B.Sc. in Computer Science (Expected Graduation: 2026) - PSAU, Al-Kharj.
 * 🎯 **Core Focus:** Human-Computer Interaction (HCI), Front-End Development, and Smart Algorithms.
@@ -27,12 +27,19 @@ I am a **Computer Science** undergraduate at Prince Sattam Bin Abdulaziz Univers
 * **Stack:** React, Vite, Tailwind CSS, JavaScript, PHP, MySQL.
 
 #### 📚 Nibras Platform
-* **Role:** UI/UX Designer & Backend Developer (SE Course Project)
+* **Role:** UI/UX Designer 
 * **Summary:** A centralized educational reference platform built to empower student content creators and streamline learning resources, featuring an interactive prototype interface tested via usability protocols.
-* **Stack:** Figma, PHP, WordPress (Digital Portfolio).
+* **Stack:** Figma, PHP, Canva, WordPress (Digital Portfolio).
+
+#### 📈 Store Sales Analysis & Prediction
+* **Role:** Data Scientist / ML Developer
+* **Summary:** Built an end-to-end predictive analytics solution to forecast store sales using time-series data, oil price indicators, and holiday events. Conducted extensive exploratory data analysis (EDA), data scaling, and trained high-performance gradient boosting models to maximize forecasting accuracy.
+* **Stack:** Python, Jupyter Notebook, XGBoost, LightGBM, Random Forest, Scikit-Learn, Pandas, NumPy, Seaborn.
+
 
 #### 🏃‍♂️ Fitness Tracker & ✈️ Tour Booking Platforms
-* Academic full-stack and UI projects implementing personalized interaction flows and database management using **Java** and **PHP/MySQL**.
+* Academic Full-Stack and UI projects implementing personalized interaction flows and database management using
+* **Java** and **PHP/MySQL**.
 
 ---
 
