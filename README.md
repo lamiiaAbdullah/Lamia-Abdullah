@@ -39,4 +39,4 @@ I am a **Computer Science** undergraduate at Prince Sattam Bin Abdulaziz Univers
 ### 📫 Let's Connect!
 * 💼 **LinkedIn:** [linkedin.com/in/lamia-abdullahl](https://linkedin.com/in/lamia-abdullahl)
 * 📧 **Email:** laamiiaabdullah@gmail.com
-*(+966) 0552311686
+* (+966) 0552311686
